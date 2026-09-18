@@ -47,5 +47,4 @@ const edGalho = [
     preco: 40
   }
 ]
-
-module.exports = { edGalho, edFolha };
+module.exports = {edFolha, edGalho};
